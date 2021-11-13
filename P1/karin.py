@@ -36,7 +36,7 @@ time_value_dictionary = {
     " ": [0, 0],
 }
 
-word = "heaVY"
+word = "dE"
 time = 0
 
 # iterate through the string
@@ -49,14 +49,18 @@ for i in range(len(word)):
     print(word[i])
     if word[i].isupper():
         time += 2
-    prev_letter = word[i - 1].lower()
-    cur_letter = word[i].lower()
-    # always add the same base time of the lowercase character
-    time += time_value_dictionary.get(cur_letter[0])
+    if i != 0:
+        prev_letter = word[i - 1].lower()
+        cur_letter = word[i].lower()
+        # always add the same base time of the lowercase character
+        time += time_value_dictionary.get(cur_letter)[0]
 
-    # check if you need to move to another button
-    prev_key = time_value_dictionary.get(prev_letter[1])
-    cur_key = time_value_dictionary.get(cur_letter[1])
-    if prev_key == cur_key:
-        time += 0.5
-print("goodbye mars")
+        # check if you need to move to another button
+        prev_key = time_value_dictionary.get(prev_letter)[1]
+        cur_key = time_value_dictionary.get(cur_letter)[1]
+        print("prev key" + str(prev_key))
+        print("cur key" + str(cur_key))
+        if prev_key == cur_key:
+            time += 0.5
+print(time)
+# print("goodbye mars")
