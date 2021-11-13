@@ -4,6 +4,4 @@ WORDS = []
 i = 0
 
 for x in f:
-    WORDS[i] = x
-    i = i+1
-    print(x)
+    WORDS.append(str.strip(x))
