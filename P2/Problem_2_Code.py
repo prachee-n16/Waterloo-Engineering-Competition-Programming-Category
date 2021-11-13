@@ -1,7 +1,7 @@
 from timeit import default_timer as timer
 
 start = timer()
-file = open(r"Part2.txt", "r")
+file = open(r"WEC-21\P3-WEC21\P1\Part2.txt", "r")
 
 WORDS = []
 i = 0
