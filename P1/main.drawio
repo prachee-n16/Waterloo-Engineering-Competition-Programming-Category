@@ -1,1 +1,117 @@
-<mxfile host="app.diagrams.net" modified="2021-11-13T19:15:27.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.7.3" etag="p8mk-CGJELcZSU4bOdIq" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-13T19:33:22.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="j6RS-Fltp5LNTeTcuPok" version="15.7.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-0" value="main()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-1" value="&lt;span style=&quot;font-size: 13px&quot;&gt;Open file and determine which words takes the least amount of time to type&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="20" width="590" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2yY07WbjCtzN2ut1Wuw-2" target="r2yY07WbjCtzN2ut1Wuw-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-2" value="START" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="42.5" y="50" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2yY07WbjCtzN2ut1Wuw-3" target="r2yY07WbjCtzN2ut1Wuw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-3" value="Open file with words and go to the first word" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="27.5" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-13" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2yY07WbjCtzN2ut1Wuw-5" target="r2yY07WbjCtzN2ut1Wuw-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-42" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2yY07WbjCtzN2ut1Wuw-5" target="r2yY07WbjCtzN2ut1Wuw-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-5" value="Is this the &lt;br&gt;last word &lt;br&gt;in file?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="35" y="290" width="105" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2yY07WbjCtzN2ut1Wuw-12" target="r2yY07WbjCtzN2ut1Wuw-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-12" value="Set time as&lt;br&gt;&amp;nbsp;the time &lt;br&gt;taken to type &lt;br&gt;the word&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="27.5" y="420" width="122.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2yY07WbjCtzN2ut1Wuw-15" target="r2yY07WbjCtzN2ut1Wuw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-15" value="Set minimum time to -1, initialize words array to store the words with minimum time" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="27.5" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-23" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2yY07WbjCtzN2ut1Wuw-20" target="r2yY07WbjCtzN2ut1Wuw-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-30" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2yY07WbjCtzN2ut1Wuw-20" target="r2yY07WbjCtzN2ut1Wuw-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-20" value="Is minimum time = -1?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="37.5" y="520" width="102.5" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-28" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2yY07WbjCtzN2ut1Wuw-22" target="r2yY07WbjCtzN2ut1Wuw-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2yY07WbjCtzN2ut1Wuw-22" target="r2yY07WbjCtzN2ut1Wuw-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-33" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r2yY07WbjCtzN2ut1Wuw-32">
+          <mxGeometry x="-0.2997" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-22" value="Is time for&lt;br&gt;&amp;nbsp;current word &lt;br&gt;less then &lt;br&gt;minimum &lt;br&gt;time?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="22.5" y="670" width="132.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2yY07WbjCtzN2ut1Wuw-27" target="r2yY07WbjCtzN2ut1Wuw-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2yY07WbjCtzN2ut1Wuw-27" target="r2yY07WbjCtzN2ut1Wuw-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-27" value="Is time for&lt;br&gt;&amp;nbsp;current word &lt;br&gt;same as&lt;br&gt;minimum &lt;br&gt;time?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="22.5" y="840" width="132.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-29" value="Let minimum time be time." style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="211.25" y="542.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2yY07WbjCtzN2ut1Wuw-31" target="r2yY07WbjCtzN2ut1Wuw-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-31" value="Let minimum time be time" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="241.25" y="705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-34" value="Replace previous word(s) with current word in words" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="441.25" y="705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-36" value="Add current word to words" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="241.25" y="875" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2yY07WbjCtzN2ut1Wuw-38" target="r2yY07WbjCtzN2ut1Wuw-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="1030" />
+              <mxPoint x="730" y="270" />
+              <mxPoint x="88" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-38" value="Go to next word" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="28.75" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2yY07WbjCtzN2ut1Wuw-41" target="r2yY07WbjCtzN2ut1Wuw-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-41" value="Print minimum time and words with that minimum time" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="212.5" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2yY07WbjCtzN2ut1Wuw-43" value="END" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="412.5" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
